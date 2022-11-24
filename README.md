@@ -7,21 +7,27 @@
  <div>
 <h2 align="center">~ 🎀 ᴀʙᴏᴜᴛ ᴍᴇ 🎀 ~</h2>
   <div align="center">
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+<img src="https://pbs.twimg.com/media/FfyOR5PX0AApURP.jpg" align="right" width="300" height="500">
   </div>
 <li>
  <b>Name:</b> Liya Innessa
 </li>
 <li>
-<b>Gender:</b> she/her/Female 🏳️‍⚧️
+<b>Gender:</b> she/her/Female 
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
+<b>Hobbys:</b> Web Development
 </li>
 <li>
-<b>Working @:</b> Intave Anticheat
+<b>Member of @:</b> <a href ="https://polarmods.com">Polarmods</a>, SlyrithDevelopment, Monarchs, and ReverseNet
 </li>
 <br><br><br>
 </div>
-
-[![Liya's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=slyrith&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)]
+<br><br><br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/82108363/203694256-7e39e4ea-3b2e-4ed1-a0f4-6c7935d90d1d.png" align="center">
+<p align="center">
+  <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong>
+</p>
+</div>
+<p align="center">~ 💖 ᴅᴏᴇꜱ ᴍʏ ꜱᴘᴀʀᴋʟᴇ ʙʟɪɴᴅ ʏᴏᴜʀ ᴇʏᴇꜱ? 💖 ~</p>
