@@ -7,7 +7,7 @@
  <div>
 <h2 align="center">~ 🎀 ᴀʙᴏᴜᴛ ᴍᴇ 🎀 ~</h2>
   <div align="center">
-<img src="https://pbs.twimg.com/media/FfyOR5PX0AApURP.jpg" align="right" width="300" height="500">
+<img src="https://pbs.twimg.com/media/FfyOR5PX0AApURP.jpg" align="right" width="300" height="450">
   </div>
 <li>
  <b>Name:</b> Liya Innessa
@@ -21,7 +21,6 @@
 <li>
 <b>Member of @:</b> <a href ="https://polarmods.com">Polarmods</a>, SlyrithDevelopment, Monarchs, and ReverseNet
 </li>
-<br><br><br>
 </div>
 <br><br><br>
 <div align="center">
@@ -29,5 +28,5 @@
 <p align="center">
   <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong>
 </p>
+  <p align="center">~ 💖 ᴅᴏᴇꜱ ᴍʏ ꜱᴘᴀʀᴋʟᴇ ʙʟɪɴᴅ ʏᴏᴜʀ ᴇʏᴇꜱ? 💖 ~</p>
 </div>
-<p align="center">~ 💖 ᴅᴏᴇꜱ ᴍʏ ꜱᴘᴀʀᴋʟᴇ ʙʟɪɴᴅ ʏᴏᴜʀ ᴇʏᴇꜱ? 💖 ~</p>
