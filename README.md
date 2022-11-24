@@ -28,5 +28,5 @@
 <p align="center">
   <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong>
 </p>
-  <p align="center">~ 💖 ꜱʟᴇᴇᴘʏ 💖 ~</p>
+  <h3 align="center">~ 🐨 𝙎𝙡𝙚𝙚𝙥𝙮 𝙖𝙨 𝙪𝙨𝙪𝙖𝙡 🐨 ~</h3>
 </div>
