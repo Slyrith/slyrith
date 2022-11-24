@@ -28,5 +28,5 @@
 <p align="center">
   <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong>
 </p>
-  <p align="center">~ 💖 ᴅᴏᴇꜱ ᴍʏ ꜱᴘᴀʀᴋʟᴇ ʙʟɪɴᴅ ʏᴏᴜʀ ᴇʏᴇꜱ? 💖 ~</p>
+  <p align="center">~ 💖 ꜱʟᴇᴇᴘʏ 💖 ~</p>
 </div>
