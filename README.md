@@ -30,3 +30,9 @@
 </p>
   <h3 align="center">~ 🐨 ꜱʟᴇᴇᴘʏ ᴀꜱ ᴜꜱᴜᴀʟ 🐨 ~</h3>
 </div>
+
+<details>
+<summary>Github Stats</summary>
+
+[![Liya](https://github-readme-stats.vercel.app/api?username=slyrith&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slyrith)](https://github.com/anuraghazra/github-readme-stats)
+</details>
