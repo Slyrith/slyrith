@@ -28,7 +28,7 @@
 <p align="center">
   <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong>
 </p>
-  <h3 align="center">~ 🐨 ꜱʟᴇᴇᴘʏ ᴀꜱ ᴜꜱᴜᴀʟ 🐨 ~</h3>
+  <h3 align="center">~ 🐧 ɪ ᴅᴏ ᴀ ʟᴏᴛ ᴏꜰ ᴛʜɪɴɢꜱ 🐧 ~</h3>
 </div>
 
 <details>
