@@ -16,7 +16,7 @@
 <b>Gender:</b> she/her/Female 
 </li>
 <li>
-<b>Hobbys:</b> Web Development
+<b>Hobbys:</b> Creating New Stuff, API, Website Development, and more!
 </li>
 <li>
 <b>Member of @:</b> <a href ="https://polarmods.com">Polarmods</a>, SlyrithDevelopment, Monarchs, and ReverseNet
