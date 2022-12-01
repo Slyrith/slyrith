@@ -36,5 +36,5 @@
   
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-669-blue)
 
-[![Liya](https://github-readme-stats.vercel.app/api?username=slyrith&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slyrith&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Liya](https://github-readme-stats.vercel.app/api?username=slyrith&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slyrith&layout=compact)![streak](https://github-readme-streak-stats.herokuapp.com/?user=slyrith&theme=dark#gh-dark-mode-only)
 </details>
