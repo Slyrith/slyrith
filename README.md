@@ -24,9 +24,9 @@
 </div>
 <br><br><br>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/82108363/203694256-7e39e4ea-3b2e-4ed1-a0f4-6c7935d90d1d.png" align="center">
+  <img src="https://media.discordapp.net/attachments/1015560834744852511/1048567501719621704/image.png?width=255&height=72" align="center">
 <p align="center">
-  <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong>
+  <strong><a href="https://discord.gg/pQBRrAQw4H">Discord</a></strong>
 </p>
   <h3 align="center">~ 🐧 ɪ ᴅᴏ ᴀ ʟᴏᴛ ᴏꜰ ᴛʜɪɴɢꜱ 🐧 ~</h3>
 </div>
