@@ -38,10 +38,11 @@
   <h3 align="center">~ 🐧 ɪ ᴅᴏ ᴀ ʟᴏᴛ ᴏꜰ ᴛʜɪɴɢꜱ 🐧 ~</h3>
 </div>
 
-<details>
-<summary>Github Stats</summary>
-  
-![Profile Views](http://img.shields.io/badge/Profile%20Views-669-blue)
+<h1 align="center">~ 🎲 ᴍʏ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ 🎲 ~</h1>
+  <p align="left">
+  <a href="https://github.com/Slyrith">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=slyrith&theme=dracula&show_icons=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=slyrith&theme=dracula" />
+  </a>
+</p>
 
-![Liya](https://github-readme-stats.vercel.app/api?username=slyrith&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slyrith&layout=compact)![streak](https://github-readme-streak-stats.herokuapp.com/?user=slyrith&theme=dark#gh-dark-mode-only)
-</details>
