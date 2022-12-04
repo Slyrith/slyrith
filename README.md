@@ -9,24 +9,31 @@
   <div align="center">
 <img src="https://pbs.twimg.com/media/FfyOR5PX0AApURP.jpg" align="right" width="300" height="450">
   </div>
-<li>
- <b>Name:</b> Liya Innessa
-</li>
-<li>
-<b>Gender:</b> she/her/Female 
-</li>
-<li>
-<b>Hobbys:</b> Creating New Stuff, API, Website Development, and more!
-</li>
-<li>
-<b>Member of @:</b> <a href ="https://polarmods.com">Polarmods</a>, SlyrithDevelopment, Monarchs, and ReverseNet
-</li>
+  
+<details><summary><b>My bio ?<b/></summary>
+<p>
+  
+- <img src="https://cdn.discordapp.com/emojis/796455895029776468.webp?size=16&quality=lossless"/> I'm Liya Innessa
+- <img src="https://cdn.discordapp.com/emojis/587211960358273031.webp?size=16&quality=lossless"/> A certified code breaker
+- <img src="https://cdn.discordapp.com/emojis/861020556854165506.webp?size=16&quality=lossless"/> I'd like to create new stuff, api, website development, and more!
+- <img src="https://cdn.discordapp.com/emojis/585583485549543445.gif?size=16&quality=lossless"/> Member of @:</b> <a href ="https://polarmods.com">Polarmods</a>, SlyrithDevelopment, Monarchs, and ReverseNet
+  
+</p>
+</details>
+
+<details><summary><b>My Server<b/></summary>
+<p>
+<a href ="https://discord.gg/pQBRrAQw4H">
+<img src="https://discordapp.com/api/guilds/867088876363710464/widget.png?style=banner1"/> <br>
+<img src="https://badgen.net/discord/members/pQBRrAQw4H"/>
+</a>
+</p>
+</details>
 </div>
 <br><br><br>
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1015560834744852511/1048567501719621704/image.png?width=255&height=72" align="center">
 <p align="center">
-  <strong><a href="https://discord.gg/pQBRrAQw4H">Discord</a></strong>
+  <a href="https://discord.com/users/693357228413026356"><img src="https://lanyard.cnrad.dev/api/693357228413026356" align="center"></a>
 </p>
   <h3 align="center">~ 🐧 ɪ ᴅᴏ ᴀ ʟᴏᴛ ᴏꜰ ᴛʜɪɴɢꜱ 🐧 ~</h3>
 </div>
