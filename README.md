@@ -33,9 +33,8 @@
 <br><br><br>
 <div align="center">
 <p align="center">
-  <a href="https://discord.com/users/693357228413026356"><img src="https://lanyard.cnrad.dev/api/693357228413026356" align="center"></a>
+  <a href="https://discord.com/users/693357228413026356"><img src="https://lanyard.cnrad.dev/api/693357228413026356?idleMessage=Im%20going%20to%20hack%20discord%20next%20time" align="center"></a>
 </p>
-  <h3 align="center">~ 🐧 ɪ ᴅᴏ ᴀ ʟᴏᴛ ᴏꜰ ᴛʜɪɴɢꜱ 🐧 ~</h3>
 </div>
 
 <h1 align="center">~ 🎲 ᴍʏ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ 🎲 ~</h1>
