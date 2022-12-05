@@ -36,7 +36,7 @@
   <a href="https://discord.com/users/693357228413026356"><img src="https://lanyard.cnrad.dev/api/693357228413026356?idleMessage=Im%20going%20to%20hack%20discord%20next%20time" align="center"></a>
 </p>
 </div>
-
+<br><br><br>
 <h1 align="center">~ 🎲 ᴍʏ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ 🎲 ~</h1>
   <p align="left">
   <a href="https://github.com/Slyrith">
