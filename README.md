@@ -16,7 +16,7 @@
 - <img src="https://cdn.discordapp.com/emojis/796455895029776468.webp?size=16&quality=lossless"/> I'm Liya Innessa
 - <img src="https://cdn.discordapp.com/emojis/587211960358273031.webp?size=16&quality=lossless"/> A certified code breaker
 - <img src="https://cdn.discordapp.com/emojis/861020556854165506.webp?size=16&quality=lossless"/> I'd like to create new stuff, api, website development, and more!
-- <img src="https://cdn.discordapp.com/emojis/585583485549543445.gif?size=16&quality=lossless"/> Member of @:</b> <a href ="https://polarmods.com">Polarmods</a>, SlyrithDevelopment, Monarchs, and ReverseNet
+- <img src="https://cdn.discordapp.com/emojis/585583485549543445.gif?size=16&quality=lossless"/> Member of @:</b> <a href ="https://polarmods.com">Polarmods</a>, <a href ="https://github.com/SlyrithDevelopment">SlyrithDevelopment</a>, Monarchs, and ReverseNet
   
 </p>
 </details>
