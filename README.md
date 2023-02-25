@@ -1,13 +1,13 @@
 <h1 align="center">~ 💖 ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ᴘʀᴏꜰɪʟᴇ 💖 ~</h1>
 
 <p align="center"> 
-  <a href="https://discord.com/users/693357228413026356"><img src="https://i1.sndcdn.com/visuals-000777380260-kwILgk-t1240x260.jpg" alt="Liya Banner"></a> 
+  <a href="https://discord.com/users/693357228413026356"><img src="https://media.discordapp.net/attachments/987154165472034859/1079002706003374210/github.png?width=994&height=235" alt="Liya Banner"></a> 
 </p>
 
  <div>
 <h2 align="center">~ 🎀 ᴀʙᴏᴜᴛ ᴍᴇ 🎀 ~</h2>
   <div align="center">
-<img src="https://pbs.twimg.com/media/FfyOR5PX0AApURP.jpg" align="right" width="300" height="450">
+<img src="https://static.miraheze.org/hoyodexwiki/thumb/3/3e/Liliya_Olenyeva.png/300px-Liliya_Olenyeva.png" align="right">
   </div>
   
 <details><summary><b>My bio ?<b/></summary>
