@@ -1,17 +1,17 @@
 <h1 align="center">~ 💖 ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ᴘʀᴏꜰɪʟᴇ 💖 ~</h1>
 
 <p align="center"> 
-  <a href="https://discord.com/users/693357228413026356"><img src="https://user-images.githubusercontent.com/82108363/229675695-b9446a1d-0969-491a-aac1-bcdd8c7d3cf6.png" alt="Liya Banner"></a>
+  <a href="https://discord.com/users/693357228413026356"><img src="https://media.discordapp.net/attachments/1088848187311276132/1103462620222205972/1682604771994-1.png" alt="Liya Banner"></a>
 
 </p>
 
  <div>
 <h2 align="center">~ 🎀 ᴀʙᴏᴜᴛ ᴍᴇ 🎀 ~</h2>
   <div align="center">
-<img src="https://media.tenor.com/f5USc-rHUEsAAAAC/me-venti.gif" align="right" width="360" height="360">
+<img src="https://media.discordapp.net/attachments/1088848187311276132/1103539439025786910/1682639872846.png" align="right" width="360" height="360">
   </div>
   
-<details><summary><b>My bio ?<b/></summary>
+<details open><summary><b>My bio ?<b/></summary>
 <p>
   
 - <img src="https://cdn.discordapp.com/emojis/796455895029776468.webp?size=16&quality=lossless"/> I'm Liya Innessa
@@ -22,7 +22,7 @@
 </p>
 </details>
 
-<details><summary><b>My Server<b/></summary>
+<details open><summary><b>My Server<b/></summary>
 <p>
 <a href ="https://discord.gg/pQBRrAQw4H">
 <img src="https://discordapp.com/api/guilds/867088876363710464/widget.png?style=banner1"/> <br>
