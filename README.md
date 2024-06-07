@@ -8,7 +8,7 @@
  <div>
 <h2 align="center">~ 🎀 ᴀʙᴏᴜᴛ ᴍᴇ 🎀 ~</h2>
   <div align="center">
-<img src="https://media.discordapp.net/attachments/1088848187311276132/1103539439025786910/1682639872846.png" align="right" width="360" height="360">
+<img src="https://media.discordapp.net/attachments/1243218875483553805/1248644532116127854/download.jpeg" align="right" width="360" height="360">
   </div>
   
 <details open><summary><b>My bio ?<b/></summary>
@@ -24,9 +24,9 @@
 
 <details open><summary><b>My Server<b/></summary>
 <p>
-<a href ="https://discord.gg/pQBRrAQw4H">
-<img src="https://discordapp.com/api/guilds/867088876363710464/widget.png?style=banner1"/> <br>
-<img src="https://badgen.net/discord/members/pQBRrAQw4H"/>
+<a href ="https://discord.gg/W3Ptzxjh8P">
+<img src="https://discordapp.com/api/guilds/1088843722059427852/widget.png?style=banner1"/> <br>
+<img src="https://badgen.net/discord/members/W3Ptzxjh8P"/>
 </a>
 </p>
 </details>
@@ -34,7 +34,7 @@
 <br><br><br>
 <div align="center">
 <p align="center">
-  <a href="https://discord.com/users/693357228413026356"><img src="https://lanyard.cnrad.dev/api/693357228413026356?idleMessage=Im%20going%20to%20hack%20discord%20next%20time" align="center"></a>
+  <a href="https://discord.com/users/1147265607205666816"><img src="https://lanyard.cnrad.dev/api/1147265607205666816?idleMessage=Im%20going%20to%20hack%20discord%20next%20time" align="center"></a>
 </p>
 </div>
 <br><br><br>
